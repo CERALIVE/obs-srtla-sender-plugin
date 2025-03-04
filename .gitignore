@@ -1,0 +1,57 @@
+# CMake build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# IDE specific files
+.idea/
+.vscode/
+.vs/
+.qt/
+*.swp
+*.swo
+*.user
+*.suo
+*.sln.docstates
+*.userprefs
+*.log
+
+# Compiled binaries and libraries
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Generated files
+moc_*.cpp
+moc_*.h
+*.moc
+ui_*.h
+qrc_*.cpp
+
+# Temporary files
+*~
+*.DS_Store
+*.qm
+
+# Dependency directories
+vendor/
